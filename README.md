@@ -5,10 +5,10 @@ The code imports libraries like pandas and scikit-learn, loads data from a CSV f
  ![image](https://github.com/user-attachments/assets/a99691d0-27d2-4dc8-abec-8b258f7df630)
 
 ## Dataset information
- ![image](https://github.com/user-attachments/assets/e72af51c-541a-45d5-b186-32f1ea51f524)
+![image](https://github.com/user-attachments/assets/e72af51c-541a-45d5-b186-32f1ea51f524)
 
 The code df.info() is used to display a concise summary of a DataFrame, including column names, data types, non-null values, and memory usage.
- ![image](https://github.com/user-attachments/assets/122c32b6-4aff-44f1-bac5-5638872430c3)
+![image](https://github.com/user-attachments/assets/122c32b6-4aff-44f1-bac5-5638872430c3)
 
 ## Detecting Null Values
 ![image](https://github.com/user-attachments/assets/c7fa7c0f-c7ed-4e4c-8487-3117da9bac7a)
