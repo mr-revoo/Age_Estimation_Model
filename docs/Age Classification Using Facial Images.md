@@ -96,6 +96,8 @@ For this project, we focused on early childhood age classification (ages 1-4):
 ![[Pasted image 20241218031822.png]]
 *Confusion matrix for Logistic Regression classifier*
 
+#### ROC Curve 
+![[Pasted image 20241218040354.png]]
 ## Results and Analysis
 
 ### Key Findings
