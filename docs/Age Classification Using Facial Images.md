@@ -72,6 +72,14 @@ For this project, we focused on early childhood age classification (ages 1-4):
 
 ### Performance Metrics
 
+##### 1- KNN Results 
+![[Pasted image 20241218034920.png]]
+
+##### 2- Logistic Results 
+![[Pasted image 20241218035201.png]]
+
+#### Final Results :
+
 | Metric            | KNN      | Logistic Regression |
 | ----------------- | -------- | ------------------- |
 | Accuracy          | 0.526932 | 0.545667            |
